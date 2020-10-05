@@ -12,7 +12,7 @@
   <br>
   📚 I can't live without poetry and music 🎸
   <br>
-  🌏 My research focuses on deep convection effects ⚡
+  🌏 My research focuses on deep convection ⚡
   <br>
   📫 How to reach me: <a href="mailto: xinzhang1215@gmail.com">xinzhang1215@gmail.com</a>
 </p>

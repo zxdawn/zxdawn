@@ -16,14 +16,12 @@
   <br>
   📫 How to reach me: <a href="mailto: xinzhang1215@gmail.com">xinzhang1215@gmail.com</a>
 </p>
-
-
-![Xin Zhang giving a talk at AMS2020](https://github.com/zxdawn/Conferences/blob/master/Pics/AMS2020.jpg)
-
 To know more about me:
 
 - 🌐 Visit my [porfolio website](https://dreambooker.site/about/) for complete background and contact.
 - 👋 View my personal [blog site](https://dreambooker.site/)
+
+![cloud](https://github.com/zxdawn/zxdawn/blob/main/imgs/cloud.jpg)
 
 
 <details open>

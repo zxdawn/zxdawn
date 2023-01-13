@@ -14,7 +14,7 @@
   <br>
   📚 I can't live without poetry and music 🎸
   <br>
-  🌏 My research focuses on emissions (NOx and methane) ⚡
+  🌏 My research focuses on emissions (NOx and CH4) ⚡
   <br>
   📫 How to reach me: <a href="mailto: xinzhang1215@gmail.com">xinzhang1215@gmail.com</a>
 </p>

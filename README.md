@@ -3,18 +3,16 @@
 ### Hi 👋 I am Xin! 
 
 <p align="center">
-  I'm currently doing my PhD in Atmospheric Physics ☁️
+  I'm currently a Postdoc in <a href="https://www.sron.nl/">SRON</a> 🛰️
   <br>
   <br>
-    🎓 I'm studying in <a href="https://en.wikipedia.org/wiki/Nanjing_University_of_Information_Science_and_Technology">NUIST</a> and <a href="http://www.knmi.nl/">KNMI</a>
-  <br>
-  I will join <a href="https://www.sron.nl/">SRON</a> as Postdoc in April 2023
+    🎓 I finished my Phd in <a href="https://en.wikipedia.org/wiki/Nanjing_University_of_Information_Science_and_Technology">NUIST</a> and <a href="http://www.knmi.nl/">KNMI</a>
   <br>
   💻 I love writing code, especially Python 🐍
   <br>
   📚 I can't live without poetry and music 🎸
   <br>
-  🌏 My research focuses on emissions (NOx and CH4) ⚡
+  🌏 My research focuses on gas emissions (CH4, CO2, and NOx) 🌏
   <br>
   📫 How to reach me: <a href="mailto: xinzhang1215@gmail.com">xinzhang1215@gmail.com</a>
 </p>
